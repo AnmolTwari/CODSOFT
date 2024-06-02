@@ -32,7 +32,7 @@ public class Task2 {
         } else {
             Grade = 'F';
         }
-        System.out.println("Your total marks is : " + total); // here we printed it
+        System.out.println("Your total marks is : " + total); // here we printed itTas
         System.out.println("Average percentage of Your Marks is:" + ap);
         System.out.println("Your Grade is: " + Grade);
     }
